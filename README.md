@@ -1,1 +1,3 @@
-# Trade_Store
+# Trade Store
+
+Use ```mvn install``` to run tests.
